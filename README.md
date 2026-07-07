@@ -1,4 +1,5 @@
 # poagitMusic
 Music for poags and humans alike.
 
-<b>This project is current not in my best interests to keep running but minor bugfix updates will continue until I deem the program as complete.</b>
+# Based on the new rit2 engine
+poagitMusic is now based on the rit2 engine made by me, allowing for smoother graphics.
